@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# RealWaste image dataset
+RealWaste/
+realwaste-main/
+data/RealWaste/
+data/realwaste-main/
+
+# Trained models
+*.h5
+*.keras
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# Secrets
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
