@@ -35,7 +35,7 @@ Due to its size, the image dataset is excluded from this GitHub repository
 
 To reproduce the image classification experiments:
 
-1. Obtain the RealWaste dataset from its original distribution source
+1. Obtain the RealWaste dataset from its original distribution source from this link https://archive.ics.uci.edu/dataset/908/realwaste
 2. Extract the dataset into this directory
 3. Arrange the image folders so that the structure is:
 
